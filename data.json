@@ -899,6 +899,11 @@
             "root": "steam_icon_214490"
         }
     },
+    "alien-swarm": {
+        "linux": {
+            "root": "steam_icon_630"
+        }
+    },
     "alienarena": {
         "linux": {
             "root": "alienarena",
